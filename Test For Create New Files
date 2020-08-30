@@ -1,0 +1,10 @@
+#include <stidio.h>
+#define TURE 1
+#define FALSE 0
+int main(){
+
+          
+          
+          
+          return 0
+}
